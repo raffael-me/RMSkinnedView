@@ -1,4 +1,4 @@
-RMSkinnedView
-=============
+301 MOVED!
+==========
 
-Subclass of NSView with a NSImage as background pattern. Interface Builder properties can be used to directly set the image path.
+This repo has been moved to my new github account: https://github.com/raffael/RMSkinnedView
